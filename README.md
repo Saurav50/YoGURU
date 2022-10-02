@@ -11,7 +11,7 @@ Your Live Digital Yoga Mentor
 
 ## Demo
 
-![](http://www.reactiongifs.us/wp-content/uploads/2013/10/nuh_uh_conan_obrien.gif)
+![](https://github.com/Saurav50/YoGURU/blob/main/media/1664680074430.gif)
 
 
 ## Run Locally
