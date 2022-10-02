@@ -6,7 +6,7 @@ Your Live Digital Yoga Mentor
 
 
 
-![Logo](https://raw.githubusercontent.com/Saurav50/YoGURU/main/media/Logo-removebg-preview.png)
+![Logo](https://raw.githubusercontent.com/Saurav50/YoGURU/main/media/Logo.png)
 
 
 ## Demo
