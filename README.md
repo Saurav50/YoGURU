@@ -14,6 +14,14 @@ Your Live Digital Yoga Mentor
 ![](https://github.com/Saurav50/YoGURU/blob/main/media/1664680074430.gif)
 
 
+## Screenshots
+
+![App Screenshot](https://raw.githubusercontent.com/Saurav50/YoGURU/main/media/1664688791426.jpg)
+![App Screenshot](https://raw.githubusercontent.com/Saurav50/YoGURU/main/media/1664688791455.jpg)
+
+
+
+
 ## Run Locally
 
 Clone the project
